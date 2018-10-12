@@ -1,1 +1,1 @@
-[Linky](www.doritos.com)
+[Linky](http://www.doritos.com)
